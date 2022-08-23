@@ -1,0 +1,13 @@
+How to compile and run:
+
+1. Place all the .java class files in a single folder
+
+2. Open Terminal/Console/Command Prompt 
+
+3. Navigate to inside this - PontoonAssignment folder
+
+3. Enter javac *.java
+
+4. Enter java Driver   
+
+5. When the game runs, click on New Game to begin.  Take turns to select a square until a winner is announced.  Click on 'New Game' to start a new game at any time.
