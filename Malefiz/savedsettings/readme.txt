@@ -1,0 +1,1 @@
+This folder is to hold a single set of settings from the Additional Change Game Settings Button.

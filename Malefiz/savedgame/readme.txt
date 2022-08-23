@@ -1,0 +1,1 @@
+This folder is to hold a single saved game of Malefiz.
