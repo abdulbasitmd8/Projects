@@ -1,0 +1,56 @@
+Project: Tely 10 - How Successful has the Tely 10 been over the years?
+A graphic presentation
+By
+Abdul Shaji
+201050531, 201956968
+COMP 4304 - Fall 2021
+
+First file is the video presentation, which describes each visualization
+
+second file is a jupyter notebook file. Details are given below: 
+
+All graphs have been made and submitted inside the jupyter notebook.
+The visualizations have been targeted to be used by the organizer so that they may identify the best way to promote and advertise the race, and to find
+which demographic in age, location and gender should be targetted for promotion so as to entice more members of those demographics to participate.
+
+Plot 1: Main Goal [Visualiztion - Interactive] : How successful the Tely 10 has been over the years by age distribution?
+
+Details of chart: Interactive Bar Chart using color to differentiate participation based on age groupings.
+Interactivity: The interactive view will allow the reader to select a time period and view a zoomed in chart reflecting participation by age group by year
+for the five year period selected.
+Goal: Arranging the distribution in a color coded bar graph will highlight participation relative to age groups over the 15 year period.  
+By restricting the data, but layering it via the interactive component, the information presented is always in small enough chunks so as not to overwhelm the reader. 
+The organizers of the Tely 10 will be able to see what age groups are most attracted to the organization and if there have been any trends in growth by age category.
+
+Plot 2:  Main goal [Visualization - Explanatory] : How successful the Tely 10 has been over the years, measured by total number of participants? 
+Details of chart: 
+The total number of participants by year will provide a clear measure of the success of the race, where success is measured by an increase in participants
+The trend of the graph will indicate if the popularity of the race is increasing or decreasing compared to the previous years
+From the organizers perspective, if the trend is positive, it could mean that the advertising and other promotion methods of the race are effective.
+If the trend is negative, that could mean that the previous promotion methods are not effective enough.
+
+
+Plot 3: Subgoal [Visualization - Exploratory - Interactive] : What are the top 20 cities for participation in the Tely 10 over the years?
+Details of chart: This comparison by city will show the the proportion of participation by the top 20 participating cities over the years
+A donut plot has been used to represent the top 20 cities that have participanted in the Tely 10 each year.
+Goal:  The trend of proportions will help determine areas that can be marketed that have high response rates, and identify areas where there are low participation rates.
+This gives the organizer the ability to decide where to invest for promotions.
+Interativity; A drop down list allows the user to select the year, with the legend and chart updating to reflect the selected year and the associated top 20 cities.
+NB:  This chart was originally planned to be a bar chart, however due to the variations in the formatting of the city column of the master data, it was not possible to 
+effectively identify in province vs out of province participants. The chart was changed to a donut chart and the top 20 cities were drawn out of the data instead and has the
+benefit of showing the names of each city among the top 20, so that the popularity of the race in province and out of province may be gauged.
+This visualization is also the one marked for originality. Further explanation of this in the jupyter notebook submitted
+
+
+Plot 4: Subgoal [Visualization - Derived data types - Interactive] : How successful the Tely 10 has been over the years with men vs women?
+Details of chart: This comparison by gender will show if the tely 10 has grown over the years equally between the gender groups, as well as if one gender is being attracted substantially over the other.
+Interactivity:  2 drop down lists change the top left bar plot to reflect the selected division & year shown as percentages, while the top right bar plot updates to show overall numbers (male/female) for the selected year.
+A scatter plot has been used to differentiate between men and women using high contrast stereotypical gender colors (blue/orange) to show the distribution.
+This scatter plot will offer the organizers of the Tely 10 a deeper insight  regarding participation by gender.  This may be used for target marketing and can also show how effective past gender targeted marketing has
+been when translated into direct participation int the annual Tely 10.
+NB: This was originally to be a scatterplot, however it would have been hard to glean the information from this 2-point per year chart and so we added in two bar plots to zoom in on specific years and divisions.
+
+
+
+
+
