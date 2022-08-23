@@ -1,5 +1,4 @@
 # Projects
-Repository of My Software Projects
 
 
 Hi, My name is Abdul Basit Shaji.
